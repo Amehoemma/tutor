@@ -1,2 +1,2 @@
 # start
-Duration for the meeting 
+Duration for the meeting!
